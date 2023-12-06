@@ -36,5 +36,5 @@ We look forward to hearing your feedback and appreciate your visit!
 ## Contributors
 
 - [Tsaispw (she/her)](https://github.com/tsaispw)
-- [Chen Jiaxuan](https://github.com/jrshn)
-- [WaterWeb](https://www.linkedin.com/company/%E7%BA%8C%E6%B0%B4/)
+- [陳佳萱](https://github.com/jrshn)
+- [續水](https://www.linkedin.com/company/%E7%BA%8C%E6%B0%B4/)
