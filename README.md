@@ -27,6 +27,10 @@ Feel free to visit the website prototype at any time, explore different pages an
 
 If you encounter any issues while visiting the website prototype or would like to provide feedback, please don't hesitate to contact us. You can fill out the form on the [Contact Us](https://waterweb.fly.dev/contact) page, and we will be more than happy to assist you.
 
+## Reference
+
+For design inspiration, this prototype is based on the [Chain - App Developer Website Template](https://templatemo.com/tm-570-chain-app-dev).
+
 We look forward to hearing your feedback and appreciate your visit!
 
 ## Contributors
